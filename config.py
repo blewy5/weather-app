@@ -1,0 +1,1 @@
+URL_BASE = "https://danepubliczne.imgw.pl/api/data/synop/station"
