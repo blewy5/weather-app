@@ -1,6 +1,7 @@
 import requests
 import json
 import unicodedata
+import sqlite3
 from config import URL_BASE
 
 
